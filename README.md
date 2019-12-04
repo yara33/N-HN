@@ -1,6 +1,6 @@
 # N-HN
 
-This project was built with Angular8 (client side) and ASP.NET Core 3.0 (server side) and it uses the HackerNews API (data)
+This project was built with Angular8 (client side) and ASP.NET Core 3.0 (server side). The App search for the Top Stories from Hacker News API and generate a page, it has a search functionality (implemented using Algolia - Search API https://hn.algolia.com/api) and it's hosted in Azure (https://hnwebapp.azurewebsites.net/)
 
 
 # HackerNewsAPI - ASP.NET Core 3.0 Web API
