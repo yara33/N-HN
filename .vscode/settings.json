@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "",
+    "appService.defaultWebAppToDeploy": "/subscriptions/b6e1d271-9626-4aba-ab6d-95a4e681d479/resourceGroups/HNAppResources/providers/Microsoft.Web/sites/hnwebapp"
+}
